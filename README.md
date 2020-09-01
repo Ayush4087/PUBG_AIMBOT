@@ -39,6 +39,10 @@
 <b>Ayush Mishra</b><br/>
 
 
-![](result1.png) <br/>
-![](result2.png) <br/>
-![](result3.png) <br/>
+<br/><b> Results returned by the model </b> <br/>
+![](/predictions/1.png) <br/>
+![](/predictions/2.png) <br/>
+![](/predictions/3.png) <br/>
+![](/predictions/4.png) <br/>
+
+
