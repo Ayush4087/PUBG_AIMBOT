@@ -16,17 +16,16 @@ Pubg Real Time Player Detection Using TF2
     --num_eval_steps={num_eval_steps}"
     
    make sure that u have passed the paths correctly . 
-   7) once the training is completed , generate the inference graph of the final checkpoint created during the model training .
+7) once the training is completed , generate the inference graph of the final checkpoint created during the model training .
    "!python /content/models/research/object_detection/exporter_main_v2.py \
     --trained_checkpoint_dir {model_dir} \
     --output_directory {output_directory} \
     --pipeline_config_path {pipeline_config_path}"
     
     I have uploaded the folder here so that u can avoid the training of the model (but it's better to train it if u have better dataset than given one) .
-    
-    8) Now run the "prediciton.py" file which will look for all the images present inside of the "images/test" directory and will give
+8) Now run the "prediciton.py" file which will look for all the images present inside of the "images/test" directory and will give
     the results with the bounding boxes on it .
     
-    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! HAPPY CODING !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    @ Author 
-    Ayush Mishra
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! HAPPY CODING !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@ Author 
+Ayush Mishra
