@@ -45,4 +45,10 @@
 ![](/predictions/3.png) <br/>
 ![](/predictions/4.png) <br/>
 
+<br/><b> Results produced during analysis </b> <br/>
+![](result1.png) <br/>
+![](result2.png) <br/>
+![](result3.png) <br/>
+
+
 
