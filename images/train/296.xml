@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PUBG</folder>
+	<filename>296.jpg</filename>
+	<path>C:\Users\amishra3\Desktop\HACKS\PUBG\296.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>177</ymin>
+			<xmax>360</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

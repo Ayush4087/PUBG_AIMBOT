@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PUBG</folder>
+	<filename>249.jpg</filename>
+	<path>C:\Users\amishra3\Desktop\HACKS\PUBG\249.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>72</ymin>
+			<xmax>287</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>
