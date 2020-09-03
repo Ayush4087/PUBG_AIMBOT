@@ -76,7 +76,8 @@ I have commented out everything inside both the files , and it is pretty intitut
     --sample_1_of_n_eval_examples=1 \
     --num_eval_steps={num_eval_steps}"</b><br/>
     
-   make sure that u have passed the paths correctly . 
+   make sure that u have passed the paths correctly . <br/>
+   
 15) Once the training is completed , generate the inference graph of the final checkpoint created during the model training . "inference_graph/" folder would be created .
   <br/><b> "!python models/research/object_detection/exporter_main_v2.py \
     --trained_checkpoint_dir {training/} \
